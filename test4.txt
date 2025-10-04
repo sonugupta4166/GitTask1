@@ -1,0 +1,1 @@
+this file for feature2 in dir2
